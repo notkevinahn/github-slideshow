@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Jack of All trades, Master of none.
 Use the left arrow to go back!
